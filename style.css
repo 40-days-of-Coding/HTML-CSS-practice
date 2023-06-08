@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blueviolet;
+}
+
+header {
+    width: 80%;
+    background-color: blueviolet;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+    overflow: hidden;
+
+}
+nav {
+    width:50%;
+    float: right;
+  }
+  
+  nav ul {
+    list-style-type:none;
+  }
+  
+  nav li {
+    float:left;
+    margin-right:5px;
+  }
+input {
+    color: goldenrod;
+    flood-color: rgb(177, 134, 26);
+  }
