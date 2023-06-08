@@ -1,6 +1,6 @@
 A 40 days coding challenge organised by Isaac Wilson. I decided to practice on my most loved and preferred software engineering 
 
-#Frontend 
+# Frontend 
 
 So in this challenge I would dedicate and put effort to develop my knowledge in HTML, CSS and JS(no idea for now lol) 
 
