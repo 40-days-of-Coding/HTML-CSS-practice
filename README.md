@@ -12,3 +12,7 @@ The purpose is to develop an assistant for students just like a student companio
 
 
 Let's start! Hmmm if not for this challenge, I don't think I would have started this at all. Those in this challenge with me( kurtiz, iswilsons, KBryt ) I'm going to disturb you like lol!  
+
+8/06/2023 I linked and add some style
+
+9/06/2023 Learnt how to use the img element and the input and how to style them. 2:08am - 4:00am tiredness OMG! iswilson come for your challenge, I don't want again! lol
