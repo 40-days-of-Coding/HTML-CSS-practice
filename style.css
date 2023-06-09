@@ -1,11 +1,11 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    background-color: blueviolet;
+    background-color: green;
 }
 
 header {
     width: 80%;
-    background-color: blueviolet;
+    background-color: green;
     color: white;
     margin-right: auto;
     margin-left: auto;
@@ -13,6 +13,20 @@ header {
     overflow: hidden;
 
 }
+.topnav {
+  overflow: hidden;
+  background-color: green;
+}
+
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
 nav {
     width:50%;
     float: right;
@@ -26,7 +40,19 @@ nav {
     float:left;
     margin-right:5px;
   }
-input {
-    color: goldenrod;
-    flood-color: rgb(177, 134, 26);
+
+  img {
+    height: 250px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  footer {
+    width:80%;
+    background-color:rgba(0, 128, 0, 0.445);
+    color:white;
+    margin-right:auto;
+    margin-left:auto;
+    height: 50px;
+    padding:20px;
   }
